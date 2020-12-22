@@ -15,7 +15,7 @@ VirtualShip offers a quick, easy, one-stop solution to all of your Mac OS packag
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/VirtualShip/Core){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-## Getting started
+## Quickstart
 
 ### Dependencies
 
@@ -24,3 +24,11 @@ VirtualShip is designed to be very lightweight and uses the least number of depe
 * gh
 
 ```curl``` comes prepackaged with Mac OS, so you should disregard that as a dependency. Also, the binary of ```gh``` is installed with VirtualShip, so you can disregard that as well. What do we have here? No dependencies!
+
+### Installation
+
+With VirtualShip, installation is quick and easy. Copy the following code into your Mac Terminal:
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VirtualShip/Core/main/.install)"
+```
+This command runs a script called ```.install``` in your terminal, which installs VirtualShip for you. Once the script is finished, try installing something with VirtualShip now!
