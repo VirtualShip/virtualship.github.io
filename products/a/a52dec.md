@@ -1,6 +1,7 @@
 ---
 layout: default
 title: a52dec
+permalink: /products/a/a52dec
 parent: A
 ---
 
