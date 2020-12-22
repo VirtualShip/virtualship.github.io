@@ -1,7 +1,7 @@
 ---
 layout: default
 title: a52dec
-parent: Products
+parent: A
 nav_order: 1
 ---
 
