@@ -36,7 +36,7 @@ ship return a52dec
 
 ## Statistics
 
-Version: 0.7.4
-Tested on: Big Sur, Catalina
-License: GPL-2.0-or-later
-Speed: 14 seconds
+* Version: 0.7.4
+* Tested on: Big Sur, Catalina
+* License: GPL-2.0-or-later
+* Speed: 14 seconds
