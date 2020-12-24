@@ -18,3 +18,25 @@ grand_parent: Products
 {:toc}
 
 ---
+
+## Commands
+
+To install a52dec on your Mac OS system, enter the following code (it will take care of any and all dependencies for you):
+```
+ship order a52dec
+```
+To update a52dec from the version you currently have to the next version VirtualShip supports, try using:
+```
+ship refurbish a52dec
+```
+Finally, the remove a52dec cleanly from your system, use:
+```
+ship return a52dec
+```
+
+## Statistics
+
+Version: 0.7.4
+Tested on: Big Sur, Catalina
+License: GPL-2.0-or-later
+Speed: 14 seconds
