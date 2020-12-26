@@ -13,6 +13,22 @@ nav_order: 3
 Stay up-to-date with VirtualShip development!
 {: .fs-6 .fw-300 }
 
+## Version 1.3.0 (Beta) Released
+**December 26, 2020** v1.3.0 of VirtualShip has been released! This release features a huge security update: the ability to check SHA-512 hashes. This ability complements the addition of a new command: ```sha```. You can upgrade to this version by running ```ship refurbish ship```
+## New Product: ansifilter
+**December 25, 2020** v1.2.7 of VirtualShip has been released, along with support for a new product and stock: ansifilter. ansifilter is a command line tool that is used to convert ANSI codes to HTML, RTF, markdown, and many other formats. You can install ansifilter with the usual command: ```ship order ansifilter```
+## Manual Entry: ship
+**December 24, 2020** A manual entry (manpage) has been added to VirtualShip for the command ```ship```. In the future, manpages may be added for other packaged commands. To upgrade to this version, run ```ship refurbish ship```
+## License: GNU General Public License 3.0
+**December 23, 2020** The LICENSE for VirtualShip has been changed to the GNU GPL 3.0 license, the most widely used copyleft license. There are several new restrictions, so please check the ```LICENSE``` file for more information.
+## New Product: akamai
+**December 23, 2020**  v1.2.3 of VirtualShip has been released, along with support for a new product and stock: akamai. akamai is a CLI toolkit that provides command line access to akamai's API. You can install akamai with the usual command: ```ship order akamai```
+## New Product: aescrypt
+**December 23, 2020** v1.2.2 of VirtualShip has been released, along with support for a new product and stock: aescrypt. aescrypt encrypts and decrypts "stdin using the Advanced Encryption Standard winner 'Rijndael' encryption algorithm in Cipher Block Feedback (stream) mode". You can install aescrypt with the usual command: ```ship order aescrypt```
+## New Product: acme
+**December 22, 2020** v1.2.1 of VirtualShip has been released, along with support for a new product and stock: acme. acme is a free cross-assembler released under the GNU GPL license. You can install acme with the usual command: ```ship order acme```
+## Version 1.2.0 (Beta) Released
+**December 20, 2020** v1.2.0 of VirtualShip has been released! This release features a new directory structure and new designs for stock, refurbish, and return files. The sourcing method for these methods have also been redesigned to be more general. To upgrade to this version, type ```ship refurbish ship``` in the terminal.
 ## New Product: ack
 **December 20, 2020** v1.1.5 of VirtualShip has been released, along with support for a new product and stock: ack. ack is a program, like grep, but optimized for programmers with a few new features and efficient designs. You can install ack with the usual command: ```ship order ack```
 ## Version 1.1.0 (Beta) Released
