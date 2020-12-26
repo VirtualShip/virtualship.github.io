@@ -13,6 +13,8 @@ nav_order: 3
 Stay up-to-date with VirtualShip development!
 {: .fs-6 .fw-300 }
 
+## New Product: automake
+**December 26, 2020** v1.3.2 of VirtualShip has been released, along with support for a new product and stock: automake. Automake is a tool for generating Makefiles (GNU Standards-compliant). You can install automake with the usual command: ```ship order automake```
 ## Version 1.3.0 (Beta) Released
 **December 26, 2020** v1.3.0 of VirtualShip has been released! This release features a huge security update: the ability to check SHA-512 hashes. This ability complements the addition of a new command: ```sha```. You can upgrade to this version by running ```ship refurbish ship```
 ## New Product: ansifilter
