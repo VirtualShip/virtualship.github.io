@@ -13,6 +13,8 @@ nav_order: 3
 Stay up-to-date with VirtualShip development!
 {: .fs-6 .fw-300 }
 
+## Bug Fix: test files
+**January 7, 2020** v1.4.0 of VirtualShip has been released, along with a major bug fix. We have noticed that syntax errors occur when installing an already installed package. We have updated all of the test files, all of the stock files, and all of the ```sha``` hashes to fix this major problem. You can upgrade to this version by running ```ship refurbish ship```
 ## New Product: bash-completion
 **December 31, 2020** v1.3.4 of VirtualShip has been released, along with support for a new product and stock: bash-completion. Bash-completion is a tool that allows for programmable completion in the bash shell. You can install bash-completion with the usual command: ```ship order bash-completion```
 ## New Command: stockgen
