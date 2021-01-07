@@ -29,7 +29,7 @@ To update a52dec from the version you currently have to the next version Virtual
 ```
 ship refurbish a52dec
 ```
-Finally, the remove a52dec cleanly from your system, use:
+Finally, to remove a52dec cleanly from your system, use:
 ```
 ship return a52dec
 ```
