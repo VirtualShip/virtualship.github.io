@@ -1,6 +1,6 @@
 ---
-layout: home
-title: Home
+layout: default
+title: Commands
 nav_order: 1
 ---
 
