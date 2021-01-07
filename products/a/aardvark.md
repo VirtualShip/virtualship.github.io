@@ -9,7 +9,7 @@ grand_parent: Products
 # aardvark_shell_utils
 {: .no_toc }
 
-[aardvark_shell_utils](https://liba52.sourceforge.io/) is a collection of 3 (currently) utilities designed to aid the user when working with shell scripts, or from the shell command line. All three accept their input on the command line, or from standard input, and thus they can be piped (|) with other commands. All commands come with their own man page.
+[aardvark_shell_utils](https://liba52.sourceforge.io/) is a collection of 3 utilities designed to aid the user when working with shell scripts, or from the shell command line. All three accept their input on the command line, or from standard input, and thus they can be piped with other commands. All commands come with their own man page.
 
 ## Table of contents
 {: .no_toc .text-delta }
