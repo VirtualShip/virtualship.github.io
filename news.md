@@ -13,6 +13,10 @@ nav_order: 3
 Stay up-to-date with VirtualShip development!
 {: .fs-6 .fw-300 }
 
+## New Product: bash-completion
+**December 31, 2020** v1.3.4 of VirtualShip has been released, along with support for a new product and stock: bash-completion. Bash-completion is a tool that allows for programmable completion in the bash shell. You can install bash-completion with the usual command: ```ship order bash-completion```
+## New Command: stockgen
+**December 29, 2020** v1.3.3 of VirtualShip has been released, along with the creation of a new developer tool: stockgen. Stockgen allows any developer to quickly generate stock files based on several pieces of information.
 ## New Product: automake
 **December 26, 2020** v1.3.2 of VirtualShip has been released, along with support for a new product and stock: automake. Automake is a tool for generating Makefiles (GNU Standards-compliant). You can install automake with the usual command: ```ship order automake```
 ## Version 1.3.0 (Beta) Released
