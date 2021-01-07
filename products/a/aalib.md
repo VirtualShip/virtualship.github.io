@@ -29,7 +29,7 @@ To update aalib from the version you currently have to the next version VirtualS
 ```
 ship refurbish aalib
 ```
-Finally, the remove aalib cleanly from your system, use:
+Finally, to remove aalib cleanly from your system, use:
 ```
 ship return aalib
 ```
