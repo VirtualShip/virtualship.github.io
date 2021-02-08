@@ -26,13 +26,9 @@ For obvious reasons. Do not get this confused with refurbishing!
 
 # Refurbish
 
-This has no restrictions or exceptions whatsoever. Period. A refurbish is basically an update. For example, if you wanted to update ```a52dec``` to the newest version, you would run:
+Note: As of v2.0.0 (stable), ```ship refurbish ship``` is deprecated. Future updates will occur automatically. A refurbish is basically an update. For example, if you wanted to update ```a52dec``` to the newest version, you would run:
 ```
 ship refurbish a52dec
-```
-Or, if you wanted to refurbish VirtualShip itself, you could run:
-```
-ship refurbish ship
 ```
 And it will work! 
 
